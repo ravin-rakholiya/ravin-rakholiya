@@ -1,7 +1,9 @@
-<h1 align="center">👋 Hi, I'm Ravin</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ravin%20Rakholiya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">
-🚀 GenAI Engineer | LLM Systems | Backend & Distributed Intelligence
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=GenAI+Engineer;LLM+Systems+Builder;RAG+%7C+AI+Agents+%7C+Backend+Engineer;Building+Scalable+AI+Infrastructure" />
 </h3>
 
 <p align="center">
